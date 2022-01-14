@@ -1,5 +1,17 @@
 # app-crud-csharp
-Agenda de contatos em Csharp - Console.
+Agenda de contatos em Csharp - Console:
+
+```
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "5.0.0"
+    }
+  }
+}
+```
 
 <h3>Console.WriteLine("Agenda de Contatos - Console");</h3>
 <img src="https://github.com/DalmoMendes/app-crud-csharp/blob/master/AgendaContatos.jpg">
