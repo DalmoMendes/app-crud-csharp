@@ -1,0 +1,16 @@
+C:\Users\devmaster\source\repos\AgendaContatos\bin\Debug\net5.0\AgendaContatos.exe
+C:\Users\devmaster\source\repos\AgendaContatos\bin\Debug\net5.0\AgendaContatos.deps.json
+C:\Users\devmaster\source\repos\AgendaContatos\bin\Debug\net5.0\AgendaContatos.runtimeconfig.json
+C:\Users\devmaster\source\repos\AgendaContatos\bin\Debug\net5.0\AgendaContatos.runtimeconfig.dev.json
+C:\Users\devmaster\source\repos\AgendaContatos\bin\Debug\net5.0\AgendaContatos.dll
+C:\Users\devmaster\source\repos\AgendaContatos\bin\Debug\net5.0\ref\AgendaContatos.dll
+C:\Users\devmaster\source\repos\AgendaContatos\bin\Debug\net5.0\AgendaContatos.pdb
+C:\Users\devmaster\source\repos\AgendaContatos\obj\Debug\net5.0\AgendaContatos.csproj.AssemblyReference.cache
+C:\Users\devmaster\source\repos\AgendaContatos\obj\Debug\net5.0\AgendaContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devmaster\source\repos\AgendaContatos\obj\Debug\net5.0\AgendaContatos.AssemblyInfoInputs.cache
+C:\Users\devmaster\source\repos\AgendaContatos\obj\Debug\net5.0\AgendaContatos.AssemblyInfo.cs
+C:\Users\devmaster\source\repos\AgendaContatos\obj\Debug\net5.0\AgendaContatos.csproj.CoreCompileInputs.cache
+C:\Users\devmaster\source\repos\AgendaContatos\obj\Debug\net5.0\AgendaContatos.dll
+C:\Users\devmaster\source\repos\AgendaContatos\obj\Debug\net5.0\ref\AgendaContatos.dll
+C:\Users\devmaster\source\repos\AgendaContatos\obj\Debug\net5.0\AgendaContatos.pdb
+C:\Users\devmaster\source\repos\AgendaContatos\obj\Debug\net5.0\AgendaContatos.genruntimeconfig.cache
