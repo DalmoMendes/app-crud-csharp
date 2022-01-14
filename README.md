@@ -2,13 +2,13 @@
 Agenda de contatos em Csharp - Console.
 
 <h3>Console.WriteLine("Agenda de Contatos - Console");</h3>
-<img src="xx">
+<img src="https://github.com/DalmoMendes/app-crud-csharp/blob/master/AgendaContatos.jpg">
 
 <h3>Download do App Agenda de Contatos</h3>
-<a href="xx" target="_blanck">Baixar Aqui!</a>
+<a href="https://github.com/DalmoMendes/app-crud-csharp/blob/master/Apps/AgendaContatos.zip" target="_blanck">Baixar Aqui!</a>
 
 <h3>Download do App DIO.Series </h3>
-<a href="xx" target="_blanck">Baixar Aqui!</a>
+<a href="https://github.com/DalmoMendes/app-crud-csharp/blob/master/Apps/Dio.Series.zip" target="_blanck">Baixar Aqui!</a>
 
 # :rocket: ceproirr 
 <p>by Dalmo Mendes - dalmosilvamendens@gmail.com</p>
